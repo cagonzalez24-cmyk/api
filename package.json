@@ -1,0 +1,12 @@
+{
+  "name": "api-creditos",
+  "version": "1.0.0",
+  "description": "API de gestión de créditos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
